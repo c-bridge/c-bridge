@@ -1,11 +1,11 @@
-👋 Hi there! I'm **mobile app developer** using ReactNative. :rocket:   
+👋Hi there! I'm **mobile app developer** using ReactNative. :rocket:   
 Sometimes I develop server-side like Node.js. 
 
 I enjoy reading, writing, walk and take pictures. 🚶📸   
 I hope to develop every beautiful things. 🌅
 
 
-## 💪 Skills
+### 💪 Skills
 
 #### Platforms & Languages
 
