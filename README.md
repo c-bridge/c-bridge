@@ -1,10 +1,12 @@
-👋  Hi there! I'm mobile app developer using ReactNative 🚀
-I develop cross-platforms like ReactNative or Flutter, but will study native.
+👋 Hi there! I'm mobile app developer using ReactNative
 
-I enjoy Reading, Writing, walk and take pictures.
-I hope to develop every beautiful things. ✨
+Sometimes I develop server-side like Node.js
+
+I enjoy reading, writing, walk and take pictures. I hope to develop every beautiful things. 🍀
+
 
 💪 Skills
+
 Platforms & Languages
 
 <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-1B72BE?style=flat-square&logo=TypeScript&logoColor=white"/>
