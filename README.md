@@ -1,4 +1,4 @@
-👋 Hi there! I'm **mobile app developer** using ReactNative. 🚀     
+👋 Hi there! I'm **mobile app developer** using ReactNative 🚀     
 Sometimes I develop server-side like Node.js 🖥️
 
 I enjoy reading, writing, walk and take pictures.🚶📸   
